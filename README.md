@@ -6,6 +6,7 @@ Este repositório contém prompts úteis para o dia-a-dia nos harnesses de traba
 
 - [Analisar e Corrigir Acentuação](./analisar-e-corrigir-acentuacao/README.md)
 - [Git para Leigos](./git-para-leigos/README.md)
+- [Forçar idioma - português do Brasil (sessão completa)](./pt-br-sessao/README.md)
 
 ## Licença
 
