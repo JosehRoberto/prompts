@@ -20,6 +20,21 @@ git add .
 git commit -m "Descreva o que você fez"
 ```
 
+### 💾📤 Salvar e enviar tudo de uma vez (incluindo pastas novas)
+**Quando você fez mudanças, criou pastas/arquivos novos e quer salvar e enviar tudo:**
+> "Salve e envie todas as alterações locais, incluindo pastas novas"
+
+Comando correspondente:
+```
+git add .
+git commit -m "Descreva o que você fez"
+git push
+```
+
+---
+
+*Dica: `git add .` pega tudo — arquivos modificados, novos e pastas novas.*
+
 ### 📤 Compartilhar trabalho
 **Quando você quer enviar suas mudanças registradas para o repositório:**
 > "Envie meu trabalho salvo para que outros possam vê-lo"
