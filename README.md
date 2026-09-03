@@ -8,6 +8,7 @@ Este repositório contém prompts úteis para o dia-a-dia nos harnesses de traba
 - [Git para Leigos](./git-para-leigos/README.md)
 - [Forçar idioma - português do Brasil (sessão completa)](./pt-br-sessao/README.md)
 - [Meta-Instrução](./meta-instrucao/README.md)
+- [Reversa – Estado corrompido](./reversa/README.md)
 
 ## Licença
 
