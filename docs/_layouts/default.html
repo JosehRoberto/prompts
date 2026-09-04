@@ -75,13 +75,16 @@
 
     <script>
       document.addEventListener('DOMContentLoaded', function() {
-        // Copy buttons for blockquotes
+        // Copy buttons for blockquotes (except specific phrase)
         const blockquotes = document.querySelectorAll('blockquote');
         blockquotes.forEach(bq => {
           // Get the text content, removing leading/trailing whitespace
           let text = bq.innerText.trim();
-          
-          // Create copy button for any blockquote
+          // Skip the specific blockquote that says "Arquivo já está em UTF-8 correto"
+          if (text === "“Arquivo já está em UTF-8 correto”") {
+            return;
+          }
+          // Create copy button
           const button = document.createElement('button');
           button.textContent = 'Copiar';
           button.title = 'Copiar texto';
