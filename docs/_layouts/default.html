@@ -74,7 +74,7 @@
     <button id="copy-page-btn" style="margin-top:20px; padding:8px 16px; background:#3498db; color:white; border:none; border-radius:4px; cursor:pointer;">Copiar conteúdo da página</button>
 
     <script>
-      document.addEventListener('DOMContentLoaded', function() {
+      document.addEventListener('DOMContentLoaded', async function() {
         // Copy buttons for blockquotes (except specific phrase)
         const blockquotes = document.querySelectorAll('blockquote');
         blockquotes.forEach(bq => {
@@ -116,44 +116,61 @@
           bq.appendChild(button);
         });
 
-        // Copy entire page content button (fetch raw markdown)
+        // Pre-fetch markdown for page-wide copy
+        let pageMarkdown = '';
+        try {
+          // Determine the markdown file path
+          let path = location.pathname; // e.g., "/analisar-e-corrigir-acentuacao.html" or "/"
+          if (path === '/') {
+            path = '/index';
+          }
+          // Remove .html extension if present
+          if (path.endsWith('.html')) {
+            path = path.slice(0, -5); // remove .html
+          }
+          // Construct raw URL
+          const rawUrl = `https://raw.githubusercontent.com/JosehRoberto/prompts/main/docs${path}.md`;
+          const response = await fetch(rawUrl);
+          if (!response.ok) {
+            throw new Error(`Failed to fetch markdown: ${response.status}`);
+          }
+          pageMarkdown = await response.text();
+        } catch (err) {
+          console.warn('Could not pre-fetch markdown for copy button:', err);
+          // Fallback to innerText if fetch fails
+          pageMarkdown = '';
+        }
+
+        // Copy entire page content button (use pre-fetched markdown)
         const copyPageBtn = document.getElementById('copy-page-btn');
         if (copyPageBtn) {
-          copyPageBtn.addEventListener('click', async () => {
-            try {
-              // Determine the markdown file path
-              let path = location.pathname; // e.g., "/analisar-e-corrigir-acentuacao.html" or "/"
-              if (path === '/') {
-                path = '/index';
+          copyPageBtn.addEventListener('click', () => {
+            let textToCopy = pageMarkdown;
+            if (!textToCopy) {
+              // Fallback: use innerText of main content
+              const mainContent = document.getElementById('main-content');
+              if (mainContent) {
+                textToCopy = mainContent.innerText.trim();
               }
-              // Remove .html extension if present
-              if (path.endsWith('.html')) {
-                path = path.slice(0, -5); // remove .html
-              }
-              // Construct raw URL
-              const rawUrl = `https://raw.githubusercontent.com/JosehRoberto/prompts/main/docs${path}.md`;
-              const response = await fetch(rawUrl);
-              if (!response.ok) {
-                throw new Error(`Failed to fetch markdown: ${response.status}`);
-              }
-              const markdownText = await response.text();
-              await navigator.clipboard.writeText(markdownText);
-              // UI feedback
-              copyPageBtn.textContent = 'Copiado!';
-              copyPageBtn.style.background = '#27ae60';
-              setTimeout(() => {
-                copyPageBtn.textContent = 'Copiar conteúdo da página';
-                copyPageBtn.style.background = '#3498db';
-              }, 2000);
-            } catch (err) {
-              console.error('Failed to copy markdown: ', err);
-              copyPageBtn.textContent = 'Erro';
-              copyPageBtn.style.background = '#e74c3c';
-              setTimeout(() => {
-                copyPageBtn.textContent = 'Copiar conteúdo da página';
-                copyPageBtn.style.background = '#3498db';
-              }, 2000);
             }
+            navigator.clipboard.writeText(textToCopy)
+              .then(() => {
+                copyPageBtn.textContent = 'Copiado!';
+                copyPageBtn.style.background = '#27ae60';
+                setTimeout(() => {
+                  copyPageBtn.textContent = 'Copiar conteúdo da página';
+                  copyPageBtn.style.background = '#3498db';
+                }, 2000);
+              })
+              .catch(err => {
+                console.error('Failed to copy: ', err);
+                copyPageBtn.textContent = 'Erro';
+                copyPageBtn.style.background = '#e74c3c';
+                setTimeout(() => {
+                  copyPageBtn.textContent = 'Copiar conteúdo da página';
+                  copyPageBtn.style.background = '#3498db';
+                }, 2000);
+              });
           });
         }
       });
