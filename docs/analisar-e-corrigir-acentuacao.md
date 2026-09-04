@@ -14,3 +14,4 @@ Analise o arquivo `/caminho/do/arquivo.md` para detectar caracteres acentuados e
 2. Reescreva o arquivo mantendo **exatamente o mesmo conteúdo lógico**, apenas com acentos corretos
 3. Valide: `file /caminho/do/arquivo.md` (deve retornar "UTF-8 Unicode text") e `grep -E "análise|técnica|ação|seção|relatório|configuração|próximo|último|propósito" /caminho/do/arquivo.md`
 4. Informe: "Correção aplicada. Informe o local e nome do Backup que foi salvo
+
