@@ -68,61 +68,80 @@
     </style>
   </head>
   <body>
-    {{ content }}
+    <div id="main-content">
+      {{ content }}
+    </div>
+    <button id="copy-page-btn" style="margin-top:20px; padding:8px 16px; background:#3498db; color:white; border:none; border-radius:4px; cursor:pointer;">Copiar conteúdo da página</button>
 
     <script>
       document.addEventListener('DOMContentLoaded', function() {
+        // Copy buttons for blockquotes
         const blockquotes = document.querySelectorAll('blockquote');
         blockquotes.forEach(bq => {
           // Get the text content, removing leading/trailing whitespace
           let text = bq.innerText.trim();
           
-          // Check if it starts and ends with quotes (our prompt format)
-          if ((text.startsWith('"') && text.endsWith('"')) || 
-              (text.startsWith('«') && text.endsWith('»')) ||
-              (text.startsWith('“') && text.endsWith('”'))) {
-            
-            // Create copy button
-            const button = document.createElement('button');
-            button.textContent = 'Copiar';
-            button.title = 'Copiar texto';
-            
-            button.addEventListener('click', () => {
-              // Remove the surrounding quotes
-              let cleanText = text;
-              if (text.startsWith('"') && text.endsWith('"')) {
-                cleanText = text.slice(1, -1);
-              } else if (text.startsWith('«') && text.endsWith('»')) {
-                cleanText = text.slice(1, -1);
-              } else if (text.startsWith('“') && text.endsWith('”')) {
-                cleanText = text.slice(1, -1);
-              }
-              
-              navigator.clipboard.writeText(cleanText)
+          // Create copy button for any blockquote
+          const button = document.createElement('button');
+          button.textContent = 'Copiar';
+          button.title = 'Copiar texto';
+          
+          button.addEventListener('click', () => {
+            // Copy the text as is (already trimmed)
+            navigator.clipboard.writeText(text)
+              .then(() => {
+                button.textContent = 'Copiado!';
+                button.classList.add('copy-success');
+                setTimeout(() => {
+                  button.textContent = 'Copiar';
+                  button.classList.remove('copy-success');
+                }, 2000);
+              })
+              .catch(err => {
+                console.error('Failed to copy: ', err);
+                button.textContent = 'Erro';
+                button.classList.add('copy-error');
+                setTimeout(() => {
+                  button.textContent = 'Copiar';
+                  button.classList.remove('copy-error');
+                }, 2000);
+              });
+          });
+          
+          // Position the button
+          bq.style.position = 'relative';
+          bq.appendChild(button);
+        });
+
+        // Copy entire page content button
+        const copyPageBtn = document.getElementById('copy-page-btn');
+        if (copyPageBtn) {
+          copyPageBtn.addEventListener('click', () => {
+            const mainContent = document.getElementById('main-content');
+            if (mainContent) {
+              // Get text content, trim
+              const text = mainContent.innerText.trim();
+              navigator.clipboard.writeText(text)
                 .then(() => {
-                  button.textContent = 'Copiado!';
-                  button.classList.add('copy-success');
+                  copyPageBtn.textContent = 'Copiado!';
+                  copyPageBtn.style.background = '#27ae60';
                   setTimeout(() => {
-                    button.textContent = 'Copiar';
-                    button.classList.remove('copy-success');
+                    copyPageBtn.textContent = 'Copiar conteúdo da página';
+                    copyPageBtn.style.background = '#3498db';
                   }, 2000);
                 })
                 .catch(err => {
                   console.error('Failed to copy: ', err);
-                  button.textContent = 'Erro';
-                  button.classList.add('copy-error');
+                  copyPageBtn.textContent = 'Erro';
+                  copyPageBtn.style.background = '#e74c3c';
                   setTimeout(() => {
-                    button.textContent = 'Copiar';
-                    button.classList.remove('copy-error');
+                    copyPageBtn.textContent = 'Copiar conteúdo da página';
+                    copyPageBtn.style.background = '#3498db';
                   }, 2000);
                 });
-            });
-            
-            // Position the button
-            bq.style.position = 'relative';
-            bq.appendChild(button);
-          }
-        });
+            }
+          });
+        }
       });
     </script>
   </body>
