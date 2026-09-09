@@ -4,8 +4,12 @@ Este repositório contém prompts úteis para o dia-a-dia nos harnesses de traba
 
 ## Prompts disponíveis
 
-- [Analisar e Corrigir Acentuação](https://JosehRoberto.github.io/prompts/analisar-e-corrigir-acentuacao.html)
-- [Git para Leigos](https://JosehRoberto.github.io/prompts/)
-- [Forçar idioma - português do Brasil (sessão completa)](https://JosehRoberto.github.io/prompts/pt-br-sessao.html)
-- [Meta-Instrução](https://JosehRoberto.github.io/prompts/meta-instrucao.html)
-- [Reversa – Estado corrompido](https://JosehRoberto.github.io/prompts/reversa.html)
+- [Analisar e Corrigir Acentuação](./analisar-e-corrigir-acentuacao/README.md)
+- [Git para Leigos](./git-para-leigos/README.md)
+- [Forçar idioma - português do Brasil (sessão completa)](./pt-br-sessao/README.md)
+- [Meta-Instrução](./meta-instrucao/README.md)
+- [Reversa – Estado corrompido](./reversa/README.md)
+
+## Licença
+
+Todos os prompts neste repositório são licenciados sob a Licença MIT.
