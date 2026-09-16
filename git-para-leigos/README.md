@@ -6,8 +6,9 @@ Um guia simples para pessoas que estão começando a usar Git no dia a dia do tr
 
 ### 📥 Preparar-se para trabalhar
 **Quando você quer começar o dia verificando se há atualizações dos colegas:**
-> "Atualize minha cópia local com o que está no repositório"
-
+```text
+Atualize minha cópia local com o que está no repositório
+```
 Comando correspondente: `git pull`
 
 ### 💾 Salvar alterações
