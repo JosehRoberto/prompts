@@ -25,8 +25,9 @@ git commit -m "Descreva o que você fez"
 
 ### 💾📤 Salvar e enviar tudo de uma vez (incluindo pastas novas)
 **Quando você fez mudanças, criou pastas/arquivos novos e quer salvar e enviar tudo:**
-> "Salve e envie todas as alterações locais, incluindo pastas novas"
-
+```text
+Salve e envie todas as alterações locais, incluindo pastas novas
+```
 Comando correspondente:
 ```
 git add .
