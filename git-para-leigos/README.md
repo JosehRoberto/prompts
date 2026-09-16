@@ -13,7 +13,9 @@ Comando correspondente: `git pull`
 
 ### 💾 Salvar alterações
 **Quando você terminou de fazer mudanças e quer registrar elas:**
-> "Salve meu trabalho para compartilhar com a equipe"
+```text
+Salve meu trabalho para compartilhar com a equipe
+```
 
 Comando correspondente: 
 ```
