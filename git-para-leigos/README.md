@@ -28,6 +28,10 @@ git commit -m "Descreva o que você fez"
 ```text
 Salve e envie todas as alterações locais, incluindo pastas novas
 ```
+**Ou:**
+```text
+Salve e envie todas as alterações locais
+```
 Comando correspondente:
 ```
 git add .
@@ -41,19 +45,25 @@ git push
 
 ### 📤 Compartilhar trabalho
 **Quando você quer enviar suas mudanças registradas para o repositório:**
-> "Envie meu trabalho salvo para que outros possam vê-lo"
+```text
+Envie meu trabalho salvo para que outros possam vê-lo
+```
 
 Comando correspondente: `git push`
 
 ### 👀 Ver o que outros fizeram
 **Quando você quer ver se alguém fez algo novo enquanto você trabalhava:**
-> "Mostre o que aconteceu enquanto eu estava ausente"
+```text
+Mostre o que aconteceu enquanto eu estava ausente
+```
 
 Comando correspondente: `git pull`
 
 ### 🌱 Começar nova versão
 **Quando você precisa fazer uma mudança que pode dar errado e não quer arriscar o trabalho principal:**
-> "Crie uma cópia segura para experimentar"
+```text
+Crie uma cópia segura para experimentar
+```
 
 Comando correspondente:
 ```
@@ -63,7 +73,9 @@ git checkout nome-da-nova-versao
 
 ### 🔗 Juntar versões
 **Quando você terminou de experimentar na cópia segura e quer juntar com o trabalho principal:**
-> "Junte minha experimentação com o trabalho principal"
+```text
+Junte minha experimentação com o trabalho principal
+```
 
 Comando correspondente:
 ```
@@ -73,13 +85,17 @@ git merge nome-da-nova-versao
 
 ### 🏷️ Corrigir nome da versão principal
 **Quando o nome da sua versão principal está errado (master em vez de main):**
-> "Corrija o nome da sua versão principal"
+```text
+Corrija o nome da sua versão principal
+```
 
 Comando correspondente: `git branch -m master main`
 
 ### 📤 Enviar versão principal corrigida
 **Depois de corrigir o nome da versão principal, envie para o repositório:**
-> "Envie sua versão principal corrigida"
+```text
+Envie sua versão principal corrigida
+```
 
 Comando correspondente: `git push -u origin main`
 
