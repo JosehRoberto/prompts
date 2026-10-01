@@ -18,7 +18,8 @@ Focar em:
 Força o Google Notebook a extrair a estrutura sólida em vez de resumos superficiais:
 
 ```markdown
-Analise todas as entradas e elabore 5 perguntas essenciais que, uma vez respondidas, capturem os pontos principais e o significado central de todas as entradas.”
+Analise todas as entradas e elabore 5 perguntas essenciais que, uma vez respondidas, capturem os pontos principais e o significado central de todas as entradas.
+```
 
 ## INFORMAÇÕES INTERESSANTES
 
