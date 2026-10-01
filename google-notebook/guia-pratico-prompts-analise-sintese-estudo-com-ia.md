@@ -24,7 +24,7 @@ Analise todas as entradas e elabore 5 perguntas essenciais que, uma vez respondi
 ## INFORMAÇÕES INTERESSANTES
 
 ```markdown
-Quais são os fatos mais surpreendentes ou interessantes dessas fontes? Inclua citações importantes.”
+Quais são os fatos mais surpreendentes ou interessantes dessas fontes? Inclua citações importantes.
 ```
 
 ## VERSÃO EXPANDIDA COM ORIENTAÇÕES
