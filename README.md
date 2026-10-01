@@ -15,6 +15,11 @@ Este repositório contém prompts úteis para o dia-a-dia nos harnesses de traba
 ## Prompts para criar Exercícios
 - [Prompts para criar Exercícios](./prompts-para-criar-exercicios/README.md)
 
+## Prompts para Google Notebook
+- [Prompts do Google Notebook para Otimizar seus Estudos](./google-notebook/prompts-google-notebook-otimizar-seus-estudos.md)
+- [Guia Prático de Prompts para Análise, Síntese e Estudo com Google Notebook](./google-notebook/guia-pratico-prompts-analise-sintese-estudo-com-ia.md)
+- [Transforme Vídeos do YouTube em Cursos no Google Notebook](./google-notebook/transforme-videos-do-youTube-em-cursos-no-google-notebook.md)
+
 ## Prompts para Gerar Imagens
 
 - [Prompts para manter seu rosto real](./prompts-para-gerar-imagens/prompts-para-manter-seu-rosto-real/README.md)
