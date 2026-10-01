@@ -362,13 +362,13 @@ Iluminação do Rosto = Quente, refletindo o brilho das chamas e do pôr do sol.
 Efeitos de Iluminação = Sombras profundas e destaques sutis na pele.
 Arte = Arte digital ultra-realista.
 Resolução = 8K.
-
+```
 
 -----
 
 Escultura de Mármore Fotorrealista
 
-
+```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
 Fidelidade Facial = 100% (Preservar exatamente todas as características faciais originais da imagem de referência)
 Restrição 1 = NÃO alterar olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
@@ -389,13 +389,13 @@ Estilo de Arte = Fotorrealista.
 Resolução = 8K.
 Iluminação = Deve realçar os contornos e as texturas da escultura.
 Efeito Visual = Impressionante e hipnotizante.
-
+```
 
 -----
 
 Retrato Surrealista e Dramático de Dupla Exposição
 
-
+```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
 Fidelidade Facial = 100% (Preservar exatamente todas as características faciais originais da imagem de referência)
 Restrição 1 = NÃO alterar olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
@@ -426,13 +426,13 @@ Sombras = Profundas
 Humor = Misterioso, Surreal
 Temperatura da Cor = Quente
 Saturação = Alta (nas chamas)
-
+```
 
 -----
 
 Como criar figurinhas com sua foto
 
-
+```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
 Fidelidade Facial = 100% (Preservar exatamente todas as características faciais originais da imagem de referência)
 Restrição 1 = NÃO alterar olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
@@ -466,13 +466,13 @@ Legibilidade = Deve ser legível mesmo em tamanho reduzido.
 Formato = PNG.
 Resolução = Até 512x512 px.
 Uso = Ideal para stickers individuais no WhatsApp.
-
+```
 
 ---
 
 Retrato Hiper-realista em Pintura a Óleo com Detalhes Dourados
 
-
+```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
 Fidelidade Facial = 100% (Preservar exatamente todas as características faciais originais da imagem de referência)
 Restrição 1 = NÃO alterar olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
@@ -492,14 +492,14 @@ Acessórios Adicionais = Fones de ouvido.
 
 [Formato]
 Proporção = 4:5.
-
+```
 
 -----
 
 
 Retrato Urbano de Rebelião Artística: Estilo Grafite
 
-
+```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
 Fidelidade Facial = 100% (Preservar exatamente todas as características faciais originais da imagem de referência)
 Restrição 1 = NÃO alterar olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
@@ -539,13 +539,13 @@ Movimento = Rabiscos e padrões abstratos de linhas saindo do cabelo e das borda
 [Qualidade Técnica]
 Arte = Retrato ousado e expressivo.
 Resolução = 8K.
-
+```
 
 ----
 
 Retrato Expressivo em Grafite: Estudo Intenso de Perfil com Contraste Dramático e Textura Manual
 
-
+```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
 Fidelidade Facial = 100% (Preservar exatamente todas as características faciais originais da imagem de referência)
 Restrição 1 = NÃO alterar olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
@@ -573,13 +573,13 @@ Qualidade = Ilustração profissional de arte conceitual de alta qualidade.
 Clima = Intenso e contemplativo, capturando a energia crua do meio do esboço.
 Contraste = Alto contraste.
 Proporção de Aspecto = 2:3.
-
+```
 
 ----
 
 Retrato Surreal em Estúdio: Personagem Ultra-Realista Reclinado em Nuvem Colorida
 
-
+```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
 Fidelidade Facial = 100% (Preservar exatamente todas as características faciais originais da imagem de referência)
 Restrição 1 = NÃO alterar olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
@@ -617,13 +617,13 @@ Estilo = Retrato de fantasia que combina moda e conforto etéreo.
 Qualidade = Calmo, elegante, imaginativo e ultra-detalhado.
 Fidelidade = Baseado fielmente na imagem de referência anexada.
 Resolução = 8K.
-
+```
 
 ----
 
 Retrato Y2K Ultra-Realista: Homem em Cena Editorial Retrô com Cubo Mágico e Estética Anos 2000
 
-
+```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
 Fidelidade Facial = 100% (Preservar exatamente todas as características faciais originais da imagem de referência)
 Restrição 1 = NÃO alterar olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
@@ -653,13 +653,13 @@ Prop 1 = Telefone antigo vermelho (claramente visível na parede).
 Prop 2 = Guitarra baixo vermelha (ao fundo).
 Prop 3 = Pôsteres em azul e vermelho (cobrindo a parede).
 Prop 4 = Boombox (presente na cena).
-
+```
 
 ----
 
 Retrato Cinematográfico em Preto e Branco
 
-
+```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
 Fidelidade Facial = 100% (Preservar exatamente todas as características faciais originais da imagem de referência)
 Restrição 1 = NÃO alterar olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
