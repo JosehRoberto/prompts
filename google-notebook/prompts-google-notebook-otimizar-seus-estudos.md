@@ -45,9 +45,9 @@ Atue como examinador da disciplina/tópico [MATÉRIA/TÓPICO] usando os materiai
 ## Avaliar e fornecer feedback sobre o conhecimento de um tópico específico através de perguntas de múltipla escolha:
 
 ```markdown
-Com base na fonte "Resumos Aprendizagem Acelerada com IA", crie uma pergunta de múltipla escolha com 4 alternativas (a, b, c, d) sobre os tópicos referentes a Aprendizagem Acelerada com IA.
+Com base na fonte selecionada, crie uma pergunta de múltipla escolha com 4 alternativas (a, b, c, d).
 
-**FORMATO:** Cada nova pergunta deve começar com um **número sequencial seguido por quebra de parágrafo (Ex: Pergunta 1:\n\n)**. Use letras (a, b, c, d, e) para as alternativas. **MUITO IMPORTANTE: CADA ALTERNATIVA DEVE SER SEGUIDA POR UMA LINHA EM BRANCO (QUEBRA DE PARÁGRAFO) PARA SEPARAÇÃO E LEGIBILIDADE.**
+**FORMATO:** Cada nova pergunta deve começar com um **número sequencial seguido por quebra de parágrafo (Ex: Pergunta 1:\n\n)**. Use letras (a, b, c, d) para as alternativas. **MUITO IMPORTANTE: CADA ALTERNATIVA DEVE SER SEGUIDA POR UMA LINHA EM BRANCO (QUEBRA DE PARÁGRAFO) PARA SEPARAÇÃO E LEGIBILIDADE.**
 
 **REGRAS DE ALEATORIEDADE:**
 
