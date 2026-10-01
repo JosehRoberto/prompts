@@ -11,6 +11,10 @@ Este repositório contém prompts úteis para o dia-a-dia nos harnesses de traba
 - [Reversa – Estado corrompido](./reversa/README.md)
 - [Análise de Repositórios com Perplexity](./analise-perplexity/README.md)
 
+
+## Prompts para criar Exercícios
+- [Prompts para criar Exercícios](./prompts-para-criar-exercicios/README.md)
+
 ## Prompts para Gerar Imagens
 
 - [Prompts para manter seu rosto real](./prompts-para-gerar-imagens/prompts-para-manter-seu-rosto-real/README.md)
@@ -28,6 +32,7 @@ Este repositório contém prompts úteis para o dia-a-dia nos harnesses de traba
 - [25 Copy-Paste Prompts for Nano Banana (Gemini 2.5 Flash Image) [2025]](./prompts-para-gerar-imagens/25-copy-paste-prompts-for-nano-banana-gemini-25-flash-image-2025/README.md)
 - [How to prompt Gemini 2.5 Flash Image Generation for the best results](./prompts-para-gerar-imagens/how-to-prompt-gemini-25-flash-image-generation-for-the-best-results/README.md)
 - [Nano Banana Tutorial: How to Use Google's AI Image Editing Model in 2025](./prompts-para-gerar-imagens/nano-banana-tutorial-how-to-use-googles-ai-image-editing-model-in-2025/README.md)
+
 
 ## Licença
 
