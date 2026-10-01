@@ -23,6 +23,26 @@ git add .
 git commit -m "Descreva o que você fez"
 ```
 
+### 💾 Salvar única alteração
+```text
+“Salve o documento localmente, adicione as alterações ao staging, faça um commit e envie para o repositório remoto.”
+```
+
+Comando correspondente: 
+```
+# 1. Verificar o que mudou (opcional, mas recomendado)
+git status
+
+# 2. Adicionar o arquivo alterado ao staging
+git add <nome-do-arquivo>
+
+# 3. Confirmar a alteração com uma mensagem descritiva
+git commit -m "Descrição breve do que foi alterado"
+
+# 4. Enviar as alterações para o repositório remoto (ex.: branch main)
+git push origin main
+```
+
 ### 💾📤 Salvar e enviar tudo de uma vez (incluindo pastas novas)
 **Quando você fez mudanças, criou pastas/arquivos novos e quer salvar e enviar tudo:**
 ```text

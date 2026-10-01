@@ -366,7 +366,7 @@ Resolução = 8K.
 
 -----
 
-Escultura de Mármore Fotorrealista
+## Escultura de Mármore Fotorrealista
 
 ```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
@@ -393,7 +393,7 @@ Efeito Visual = Impressionante e hipnotizante.
 
 -----
 
-Retrato Surrealista e Dramático de Dupla Exposição
+## Retrato Surrealista e Dramático de Dupla Exposição
 
 ```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
@@ -430,7 +430,7 @@ Saturação = Alta (nas chamas)
 
 -----
 
-Como criar figurinhas com sua foto
+## Como criar figurinhas com sua foto
 
 ```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
@@ -470,7 +470,7 @@ Uso = Ideal para stickers individuais no WhatsApp.
 
 ---
 
-Retrato Hiper-realista em Pintura a Óleo com Detalhes Dourados
+## Retrato Hiper-realista em Pintura a Óleo com Detalhes Dourados
 
 ```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
@@ -496,8 +496,7 @@ Proporção = 4:5.
 
 -----
 
-
-Retrato Urbano de Rebelião Artística: Estilo Grafite
+## Retrato Urbano de Rebelião Artística: Estilo Grafite
 
 ```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
@@ -543,7 +542,7 @@ Resolução = 8K.
 
 ----
 
-Retrato Expressivo em Grafite: Estudo Intenso de Perfil com Contraste Dramático e Textura Manual
+## Retrato Expressivo em Grafite: Estudo Intenso de Perfil com Contraste Dramático e Textura Manual
 
 ```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
@@ -577,7 +576,7 @@ Proporção de Aspecto = 2:3.
 
 ----
 
-Retrato Surreal em Estúdio: Personagem Ultra-Realista Reclinado em Nuvem Colorida
+## Retrato Surreal em Estúdio: Personagem Ultra-Realista Reclinado em Nuvem Colorida
 
 ```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
@@ -621,7 +620,7 @@ Resolução = 8K.
 
 ----
 
-Retrato Y2K Ultra-Realista: Homem em Cena Editorial Retrô com Cubo Mágico e Estética Anos 2000
+## Retrato Y2K Ultra-Realista: Homem em Cena Editorial Retrô com Cubo Mágico e Estética Anos 2000
 
 ```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
@@ -657,7 +656,7 @@ Prop 4 = Boombox (presente na cena).
 
 ----
 
-Retrato Cinematográfico em Preto e Branco
+## Retrato Cinematográfico em Preto e Branco
 
 ```markdown
 [Fidelidade Facial & Restrições (IMPORTANTE)]
@@ -690,7 +689,6 @@ Resolução = 8K.
 ```
 
 ---
-
 
 ## Campanha de Moda com Personalidade Dupla: Estilo Moderno e Contraste entre Cor e Preto e Branco
 
