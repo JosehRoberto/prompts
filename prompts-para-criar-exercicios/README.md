@@ -49,7 +49,7 @@ Resolva a questão 3, usando sua sugestão sobre como o estudante deve tentar re
 ```markdown
 Eu estou estudando HTML e quero avaliar meu conhecimento. Me faça uma pergunta de múltipla escolha, com 5 opções, e aguarde minha resposta. Após eu responder, informe a resposta correta. Se eu acertei, conte um ponto para mim. Se eu errei, informe a resposta correta e escreva uma breve explicação. Após escrever a explicação, faça uma nova pergunta. Repita este processo até que eu escreva PARE
 ```
----
+
 
 ## Como Avaliar o Conhecimento Usando Exercícios Interativos
 
@@ -76,21 +76,21 @@ Escreva o resultado da avaliação na forma de tabela, com uma linha para cada p
 
 Remova a coluna resposta.
 ```
----
+
 
 ## Elaborar e responder a um questionário de múltipla escolha sobre um tema específico, com feedback imediato e avaliação final:
 
 ```markdown
 Com relação a disciplina "Empreendedorismo" e sobre o conteúdo da "Unidade 1 - Definições de empreendedorismo", elabore 5 perguntas sobre estes assuntos contendo 4 alternativas, tendo apenas 1 alternativa correta. As alternativas serão "a", "b", "c" e "d". As alternativas ficarão uma em cada linha no formato de lista. Faça a pergunta, mostre as alternativas para eu responder. Não informe a resposta correta. Depois de eu responder, corrija a resposta e depois prossiga para a próxima pergunta. Mostre uma pergunta de cada vez, ou seja, faça a pergunta, mostre as alternativas, eu respondo, você corrige e somente depois vá para a próxima pergunta. Apenas após a última pergunta exiba um relatório informando o resultado das perguntas, quantas perguntas foram respondidas corretamente e quantas perguntas foram respondidas com erro. Entendido?
 ```
----
+
 
 ## Avaliar conhecimento por meio de perguntas de múltipla escolha e feedback individualizado:
 
 ```markdown
 Com relação ao conteúdo do arquivo enviado, elabore uma pergunta sobre estes assuntos do conteúdo do arquivo enviado contendo 4 alternativas, tendo apenas 1 alternativa correta. As alternativas serão "a", "b", "c" e "d". As alternativas ficarão uma em cada linha no formato de lista. Faça a pergunta, mostre as alternativas para eu responder. Não informe a resposta correta. Depois de eu responder a alternativa escolhida, corrija a resposta, informe se a resposta está certa ou se está errada. Se estiver errada, informe qual é a alternativa correta e depois prossiga para a próxima pergunta. Mostre uma pergunta de cada vez, ou seja, faça a pergunta, mostre as alternativas, eu respondo, você corrige e somente depois vá para a próxima pergunta. Apenas após a última pergunta exiba um relatório informando o resultado das perguntas, quantas perguntas foram respondidas corretamente e quantas perguntas foram respondidas com erro. Não repita as perguntas. Crie perguntas inéditas. Entendido?
 ```
----
+
 
 ## Avaliar o conhecimento sobre um tópico específico através de perguntas de múltipla escolha, com feedback e acompanhamento do progresso:
 
@@ -107,7 +107,7 @@ Repita este processo até que eu escreva PARE
 
 Após a parada, informe quantas questões respondi, quantas questões acertei e quantas questões eu errei. Analise as questões erradas e reforçar para que estude mais este tópico. Se você entendeu esta tarefa organizada em múltiplos passos, responda que você entendeu.
 ```markdown
----
+
 
 ## Avaliar o conhecimento de um aluno em tópicos específicos, fornecendo feedback e ajustando o nível de dificuldade com base no desempenho:
 
@@ -128,7 +128,7 @@ Repita este processo até que eu escreva PARE
 
 Após parar, informe quantas perguntas acertei e que tópicos preciso estudar mais. Se você entendeu esta tarefa organizada em múltiplos passos, responda que você entendeu.
 ```
----
+
 
 ## Avaliar e fornecer feedback sobre o conhecimento de um tópico específico através de perguntas de múltipla escolha:
 
@@ -145,7 +145,7 @@ Se eu acertar a resposta, conte um ponto para mim, escreva uma explicação e lo
 
 Repita este processo até que eu escreva PARE Se você entendeu esta tarefa organizada em múltiplos passos, responda que você entendeu.
 ```
----
+
 
 ## Elaborar e responder a perguntas de múltipla escolha sobre um tema específico, com enunciados e alternativas variadas
 
@@ -258,7 +258,6 @@ Repita este processo até que eu escreva PARE
 
 Se você entendeu esta tarefa organizada em múltiplos passos, responda que você entendeu e pode iniciar os exercícios.
 ```
----
 
 ## Avaliar e fornecer feedback sobre o conhecimento de um tópico específico através de perguntas de múltipla escolha (Google Notebook):
 

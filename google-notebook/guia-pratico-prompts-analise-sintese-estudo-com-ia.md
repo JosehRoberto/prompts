@@ -10,7 +10,7 @@ Focar em:
 -Temas e definições fundamentais
 -Conceitos-chave destacados
 -Relações entre conceitos
--Aplicações práticas mencionadas”
+-Aplicações práticas mencionadas
 ```
 
 ## 5 PERGUNTAS ESSENCIAIS
