@@ -3,42 +3,55 @@
 ## Criar um guia de estudo
 
 ```markdown
-Transforme os materiais que carreguei sobre [TÓPICO/UNIDADE] em um guia de estudo estruturado. Organize os principais conceitos, definições, fatos, exemplos, fórmulas e processos em seções claras. Priorize o que preciso saber e mantenha o conteúdo conciso e fácil de revisar. Não adicione informações que não estejam presentes nos meus materiais.
+Transforme os materiais que carreguei sobre [TÓPICO/UNIDADE] em um guia de estudo estruturado. 
+Organize os principais conceitos, definições, fatos, exemplos, fórmulas e processos em seções claras. 
+Priorize o que preciso saber e mantenha o conteúdo conciso e fácil de revisar. 
+Não adicione informações que não estejam presentes nos meus materiais.
 ```
 
 ## Explicar tópicos difíceis
 
 ```markdown
-Explique [TÓPICO/CONCEITO] em termos simples, usando os materiais que carreguei. Divida o assunto em partes menores, use exemplos relevantes dos materiais e explique termos importantes que preciso compreender. Aponte pontos que possam ser confusos ou propensos a interpretações equivocadas.
+Explique [TÓPICO/CONCEITO] em termos simples, usando os materiais que carreguei. 
+Divida o assunto em partes menores, use exemplos relevantes dos materiais e explique termos importantes que preciso compreender. 
+Aponte pontos que possam ser confusos ou propensos a interpretações equivocadas.
 ```
 
 ## Criar anotações de revisão
 
 ```markdown
-Crie anotações de revisão concisas sobre [TÓPICO] a partir dos materiais que carreguei. Inclua os conceitos essenciais, definições, fatos, fórmulas, exemplos e relações. Elimine detalhes desnecessários, mantendo apenas as informações necessárias para uma revisão eficaz.
+Crie anotações de revisão concisas sobre [TÓPICO] a partir dos materiais que carreguei. 
+Inclua os conceitos essenciais, definições, fatos, fórmulas, exemplos e relações. 
+Elimine detalhes desnecessários, mantendo apenas as informações necessárias para uma revisão eficaz.
 ```
 
 ## Criar questões de prática
 
 ```markdown
-Crie [NÚMERO] questões de prática baseadas nos materiais que carreguei sobre [TÓPICO]. Misture perguntas de múltipla escolha, de resposta curta e de aplicação prática. Após as perguntas, forneça um gabarito com breves explicações fundamentadas nos materiais.
+Crie [NÚMERO] questões de prática baseadas nos materiais que carreguei sobre [TÓPICO]. 
+Misture perguntas de múltipla escolha, de resposta curta e de aplicação prática. 
+Após as perguntas, forneça um gabarito com breves explicações fundamentadas nos materiais.
 ```
 
 ## Identificar lacunas de conhecimento
 
 ```markdown
-Ajude-me a identificar o que ainda preciso aprender sobre [TÓPICO]. Crie um breve teste diagnóstico com base nos materiais que carreguei; em seguida, avalie minhas respostas, identifique minhas lacunas de conhecimento e explique quais áreas devo revisar.
+Ajude-me a identificar o que ainda preciso aprender sobre [TÓPICO]. 
+Crie um breve teste diagnóstico com base nos materiais que carreguei; em seguida, avalie minhas respostas, identifique minhas lacunas de conhecimento e explique quais áreas devo revisar.
 ```
 
 ## Elaborar um plano de estudo
 
 ```markdown
-Elabore um plano de estudo para [TÓPICO/EXAME] usando os materiais que carreguei. Divida o conteúdo em sessões de estudo viáveis ​​e priorize as áreas mais importantes. Para cada sessão, indique o que estudar, o que praticar e o que revisar posteriormente.
+Elabore um plano de estudo para [TÓPICO/EXAME] usando os materiais que carreguei. 
+Divida o conteúdo em sessões de estudo viáveis ​​e priorize as áreas mais importantes. 
+Para cada sessão, indique o que estudar, o que praticar e o que revisar posteriormente.
 ```
 ## Testar como em um exame
 
 ```markdown
-Atue como examinador da disciplina/tópico [MATÉRIA/TÓPICO] usando os materiais que carreguei. Faça uma pergunta de cada vez, aguarde minha resposta, avalie-a com base nos materiais, explique eventuais erros e continue até ter testado meu conhecimento sobre os principais tópicos.
+Atue como examinador da disciplina/tópico [MATÉRIA/TÓPICO] usando os materiais que carreguei. 
+Faça uma pergunta de cada vez, aguarde minha resposta, avalie-a com base nos materiais, explique eventuais erros e continue até ter testado meu conhecimento sobre os principais tópicos.
 ```
 
 
@@ -47,7 +60,9 @@ Atue como examinador da disciplina/tópico [MATÉRIA/TÓPICO] usando os materiai
 ```markdown
 Com base na fonte selecionada, crie uma pergunta de múltipla escolha com 4 alternativas (a, b, c, d).
 
-**FORMATO:** Cada nova pergunta deve começar com um **número sequencial seguido por quebra de parágrafo (Ex: Pergunta 1:\n\n)**. Use letras (a, b, c, d) para as alternativas. **MUITO IMPORTANTE: CADA ALTERNATIVA DEVE SER SEGUIDA POR UMA LINHA EM BRANCO (QUEBRA DE PARÁGRAFO) PARA SEPARAÇÃO E LEGIBILIDADE.**
+**FORMATO:** Cada nova pergunta deve começar com um **número sequencial seguido por quebra de parágrafo (Ex: Pergunta 1:\n\n)**. 
+Use letras (a, b, c, d) para as alternativas. 
+**MUITO IMPORTANTE: CADA ALTERNATIVA DEVE SER SEGUIDA POR UMA LINHA EM BRANCO (QUEBRA DE PARÁGRAFO) PARA SEPARAÇÃO E LEGIBILIDADE.**
 
 **REGRAS DE ALEATORIEDADE:**
 
@@ -71,7 +86,9 @@ Se entendeu, gere a primeira pergunta.
 ## Objetivo Geral do Documento - Versão 2
 
 ```markdown
-Analise minuciosamente o conteúdo da **fonte selecionada**, **utilizando integralmente o texto do “Guia da Fonte” e a “Transcrição” do vídeo**. Elabore um **documento técnico e abrangente em português do Brasil**, com foco em **clareza conceitual, precisão e profundidade analítica**. O material deve servir como **base de estudo e apoio à resolução de exercícios**.
+Analise minuciosamente o conteúdo da **fonte selecionada**, **utilizando integralmente o texto do “Guia da Fonte” e a “Transcrição” do vídeo**. 
+Elabore um **documento técnico e abrangente em português do Brasil**, com foco em **clareza conceitual, precisão e profundidade analítica**. 
+O material deve servir como **base de estudo e apoio à resolução de exercícios**.
 
 Estruture o documento conforme abaixo:
 
@@ -96,7 +113,8 @@ Regras de estilo:
 ## Objetivo Geral do Documento - Versão 1
 
 ```markdown
-Elabore um documento técnico e abrangente em português do Brasil que analise minuciosamente o conteúdo da fonte fornecida. O objetivo é gerar um material de estudo aprofundado que possa ser usado para compreensão detalhada e resolução de exercícios.
+Elabore um documento técnico e abrangente em português do Brasil que analise minuciosamente o conteúdo da fonte fornecida. 
+O objetivo é gerar um material de estudo aprofundado que possa ser usado para compreensão detalhada e resolução de exercícios.
 
 Estruture o documento da seguinte forma:
 
@@ -111,7 +129,9 @@ Estruture o documento da seguinte forma:
 
 3) Síntese para Estudo: Um resumo estruturado em tópicos, destacando os pontos-chave que podem servir de base para exercícios e discussões.
 
-Mantenha o tom objetivo, técnico e didático, priorizando a clareza conceitual e a profundidade analítica. O texto deve ser lógico, coeso e fácil de consultar.
+Mantenha o tom objetivo, técnico e didático, priorizando a clareza conceitual e a profundidade analítica. 
+O texto deve ser lógico, coeso e fácil de consultar.
 
-Observação importante, priorize precisão e completude sobre concisão. Evite generalizações e inclua explicações sempre que o contexto permitir.
+Observação importante, priorize precisão e completude sobre concisão. 
+Evite generalizações e inclua explicações sempre que o contexto permitir.
 ```
