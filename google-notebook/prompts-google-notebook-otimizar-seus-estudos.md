@@ -1,4 +1,4 @@
-## Carregue materiais de estudo no NotebookLM e experimente estes 7 prompts:
+## Carregue materiais de estudo no Google Notebook e experimente estes 7 prompts:
 
 ## Criar um guia de estudo
 
