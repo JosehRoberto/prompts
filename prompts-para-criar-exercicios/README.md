@@ -138,7 +138,7 @@ Repita este processo até que eu escreva PARE
 Após a parada, informe quantas questões respondi, quantas questões acertei e quantas questões eu errei. 
 Analise as questões erradas e reforçar para que estude mais este tópico. 
 Se você entendeu esta tarefa organizada em múltiplos passos, responda que você entendeu.
-```markdown
+```
 
 
 ## Avaliar o conhecimento de um aluno em tópicos específicos, fornecendo feedback e ajustando o nível de dificuldade com base no desempenho:
