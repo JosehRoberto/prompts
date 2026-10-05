@@ -4,13 +4,11 @@
 
 ```markdown
 Analise todo o material enviado e elabore 5 perguntas essenciais que capturem o significado central.
-
 Focar em:
-
--Temas e definições fundamentais
--Conceitos-chave destacados
--Relações entre conceitos
--Aplicações práticas mencionadas
+1) Temas e definições fundamentais
+2) Conceitos-chave destacados
+3) Relações entre conceitos
+4) Aplicações práticas mencionadas
 ```
 
 ## 5 PERGUNTAS ESSENCIAIS
@@ -32,9 +30,7 @@ A busca tradicional não consegue revelar o que é interessante. Esta consegue:
 
 ```markdown
 Tenho interesse em escrever sobre [TÓPICO].
-
 Quais são os fatos ou perspectivas mais surpreendentes relacionados a [TÓPICO] nessas fontes?
-
 Inclua citações importantes. Concentre-se em [ASPECTO ESPECÍFICO], não em [OUTROS ASPECTOS].
 ```
 
@@ -44,11 +40,8 @@ Os alunos adoram. Os apresentadores de IA fazem perguntas uns aos outros e erram
 
 ```markdown
 Um quiz com dois apresentadores. O primeiro pergunta ao segundo sobre [TÓPICO].
-
 10 questões no total. Uma mistura de múltipla escolha e verdadeiro/falso.
-
 O apresentador às vezes erra. O outro corrige com as respostas certas.
-
 Compartilhe os resultados no final.
 ```
 
@@ -58,12 +51,9 @@ Antes do suporte oficial para outros idiomas, os usuários criavam podcasts em e
 
 ```markdown
 “Este é o primeiro episódio especial internacional do Deep Dive conduzido inteiramente em [idioma].
-
 Instruções especiais:
-
-Apenas [idioma] durante toda a duração.
-
-Não é permitido o uso do inglês, exceto para esclarecer termos específicos.
+1) Apenas [idioma] durante toda a duração.
+2) Não é permitido o uso do inglês, exceto para esclarecer termos específicos.
 ```
 
 ## PERFIL DO GERENTE DE PRODUTO
@@ -71,12 +61,11 @@ Transformar documentos em notas de decisão:
 
 ```markdown
 Aja como um gerente de produto sênior, revisando a documentação interna. Busque insights acionáveis ​​com precisão, ignorando informações irrelevantes.
-
 Sintetizar em formato de "memorando de decisão":
--Evidências do usuário: Citações diretas que mostram problemas relatados pelos usuários
--Análises de viabilidade: Restrições técnicas mencionadas
--Pontos cegos: O que falta no texto original
--Use marcadores. Se eu fizer perguntas vagas, me obrigue a esclarecê-las.
+1) Evidências do usuário: Citações diretas que mostram problemas relatados pelos usuários
+2) Análises de viabilidade: Restrições técnicas mencionadas
+3) Pontos cegos: O que falta no texto original
+4) Use marcadores. Se eu fizer perguntas vagas, me obrigue a esclarecê-las.
 ```
 
 ## PERSONAGEM DE PESQUISADOR CIENTÍFICO
@@ -84,15 +73,10 @@ Para acadêmicos que priorizam a metodologia em detrimento das conclusões:
 
 ```markdown
 Aja como um assistente de pesquisa científica sênior. 
-
 Tom: estritamente objetivo, formal e preciso. 
-
 Presuma conhecimento avançado de [ÁREA]. 
-
 Não defina terminologia padrão. 
-
 Concentre-se na metodologia, integridade dos dados e evidências contraditórias. 
-
 Priorize o tamanho da amostra, o delineamento experimental e a significância estatística em detrimento de conclusões gerais.
 ```
 
@@ -100,9 +84,9 @@ Priorize o tamanho da amostra, o delineamento experimental e a significância es
 
 ```markdown
 Formatar com seções em negrito:
-Principais conclusões
-Pontos fortes/pontos fracos metodológicos
-Contradições
+1) Principais conclusões
+2) Pontos fortes/pontos fracos metodológicos
+3) Contradições
 ```
 
 ## PERSONAGEM DE PROFESSOR (A)
@@ -111,16 +95,11 @@ Torna o conteúdo denso acessível:
 
 ```markdown
 Aja como um professor do ensino fundamental dedicado. Traduza os documentos originais para uma linguagem que um aluno do sétimo ano possa entender.”
-
 Estruture cada resposta da seguinte forma:
-
-O 'tl;dr': uma frase em palavras simples
-
-Analogia: uma metáfora do mundo real para o conceito
-
-Lista de vocabulário: 3 palavras difíceis definidas de forma simples
-
-Para parágrafos densos, divida-os em um formato de questionário de verdadeiro/falso.
+1) O 'tl;dr': uma frase em palavras simples
+2) Analogia: uma metáfora do mundo real para o conceito
+3) Lista de vocabulário: 3 palavras difíceis definidas de forma simples
+4) Para parágrafos densos, divida-os em um formato de questionário de verdadeiro/falso.
 ```
 
 ## ANÁLISE DE FEYNMAN (APRENDA RÁPIDO)
@@ -129,14 +108,11 @@ Essa mesma estrutura aparece constantemente em tópicos sobre "melhores sugestõ
 
 ```markdown
 "Explique o tópico utilizando a técnica de Feynman:
-
 1) Explicação simples (sem jargões)
 2) Identificar lacunas ou partes confusas em minhas fontes.
 3) Reescreva a explicação de forma mais clara.
 4) Dê 3 analogias + 3 exemplos reais.
-
 Finalize com 5 questões de autoavaliação (com respostas).
-
 Cite as fontes.
 ```
 
@@ -146,16 +122,14 @@ Transforma PDFs desorganizados em um mapa estruturado.
 
 ```markdown
 Transforme isso em um guia de domínio do capítulo:
-- 2-3 visão geral da frase
-- Objetivos de aprendizagem
-- Sumário: tópicos principais -> subtópicos -> detalhes
-- Principais estruturas/fórmulas e quando usá-las
-- As 3 seções mais difíceis e porquê
-
+1) 2-3 visão geral da frase
+2) Objetivos de aprendizagem
+3) Sumário: tópicos principais -> subtópicos -> detalhes
+4) Principais estruturas/fórmulas e quando usá-las
+5) As 3 seções mais difíceis e porquê
 Explique a ideia mais difícil como se eu tivesse 12 anos.
-- Folha de revisão com 10 tópicos para revisão na noite anterior
-
-Cite as fontes.
+1) Folha de revisão com 10 tópicos para revisão na noite anterior
+2) Cite as fontes.
 ```
 
 ## RESUMO DA PESQUISA (ESTILO DE FONTE VERIFICADA)
@@ -164,20 +138,17 @@ Um modelo popular de "formato como" que as pessoas reutilizam.
 
 ```markdown
 Analise [TÓPICO] usando apenas minhas fontes:
-
 Incluir:
-- Principais casos históricos + aplicações modernas
-- Metodologias e como as evidências foram coletadas
-- Principais colaboradores e seus argumentos
-- Considerações éticas/legais
-- resultados e limitações documentados
-
+1) Principais casos históricos + aplicações modernas
+2) Metodologias e como as evidências foram coletadas
+3) Principais colaboradores e seus argumentos
+4) Considerações éticas/legais
+5) resultados e limitações documentados
 Formatar:
 1) Breve visão geral
 2) Casos notáveis
 3) Práticas atuais
 4) Implicações futuras
-
 Cite as fontes.
 ```
 
@@ -187,10 +158,8 @@ Utilize para produtos, negócios ou estratégias.
 
 ```markdown
 "Crie uma matriz de decisão a partir das minhas fontes para escolher entre:
-
--Opção A versus Opção B (e Opção C, se aplicável).
--Inclua critérios, ponderações, compensações, riscos e uma recomendação com nível de confiança.
-
+1) Opção A versus Opção B (e Opção C, se aplicável).
+2) Inclua critérios, ponderações, compensações, riscos e uma recomendação com nível de confiança.
 Cite as fontes para cada critério.
 ```
 
@@ -200,12 +169,11 @@ Inspirado nos tópicos de estudo do tipo "conhecimento essencial".
 
 ```markdown
 Extrair apenas os pontos mais relevantes e aplicáveis ​​das minhas fontes.
-
 Regras:
-- Ignorar preenchimento
-- Priorizar coisas que mudam as decisões
-- Inclua uma frase explicando "por que isso é importante" para cada ponto.
-- Inclua citações para cada ponto."
+1) Ignorar preenchimento
+2) Priorizar coisas que mudam as decisões
+3) Inclua uma frase explicando "por que isso é importante" para cada ponto.
+4) Inclua citações para cada ponto."
 ```
 
 ## ENCONTRE CONTRADIÇÕES ENTRE AS FONTES
@@ -214,12 +182,10 @@ Regras:
 
 ```markdown
 Identificar contradições, divergências ou tensões entre as minhas fontes.
-
 Para cada conflito:
-- Quem diz o quê (cite)
-- Quais são as diferenças entre as premissas?
-- Como reconciliar (ou por que você não pode)
-
+1) Quem diz o quê (cite)
+2) Quais são as diferenças entre as premissas?
+3) Como reconciliar (ou por que você não pode)
 Que informações adicionais resolveriam o problema?
 ```
 
@@ -229,11 +195,9 @@ As pessoas usam explicitamente o Google Notebook para a geração de ideias de c
 
 ```markdown
 Utilizando minhas fontes, crie:
-
 1) Um esboço detalhado do blog
 2) Um esboço de roteiro para o YouTube
 3) Um esboço de uma sequência de 10 tweets
-
 Cada item deve incluir citações e uma seção de "pontos de comprovação"
 ```
 
@@ -241,11 +205,9 @@ Cada item deve incluir citações e uma seção de "pontos de comprovação"
 
 ```markdown
 Gere 25 questões práticas a partir das minhas fontes:
-
-- 10 fáceis de memorizar
-- 10 aplicações
-- 5 síntese
-
+1) 10 questões fáceis de memorizar
+2) 10 aplicações
+3) 5 sínteses
 Forneça respostas com citações e explique por que as respostas erradas estão erradas.
 ```
 
@@ -255,18 +217,16 @@ Este foi compartilhado como um modelo no estilo de "mensagem de sistema".
 
 ```markdown
 Crie um plano de infográfico claro e repleto de informações a partir das minhas fontes.
-
 Requisitos:
-- hierarquia clara
-- Nenhuma decoração sem significado
-- Ideias-chave reforçadas visual e verbalmente
+1) Hierarquia clara
+2) Nenhuma decoração sem significado
+3) Ideias-chave reforçadas visual e verbalmente
 
 Saída:
-- título
-- seções
-- sugestões de ícones/diagramas
-- os trechos de texto exatos a serem inseridos (curtos)
-
+1) Título
+2) Seções
+3) Sugestões de ícones/diagramas
+4) Os trechos de texto exatos a serem inseridos (curtos)
 Cite as fontes para cada seção.
 ```
 
@@ -282,14 +242,12 @@ Utilize apenas minhas fontes. Cite cada linha.
 ## “O QUE ESTÁ FALTANDO?” (DETECTOR DE LACUNAS DE COBERTURA)
 
 ```markdown
-"Com base nas minhas fontes, identifique o que está faltando para uma compreensão completa do tema.
-
+Com base nas minhas fontes, identifique o que está faltando para uma compreensão completa do tema.
 Lista:
-- Perspectivas ausentes (partes interessadas)
-- tipos de dados ausentes (estatísticas, estudos de caso, contraexemplos)
-- períodos/regiões de tempo ausentes
-- perguntas sem resposta
-
+1) Perspectivas ausentes (partes interessadas)
+2) Tipos de dados ausentes (estatísticas, estudos de caso, contraexemplos)
+3) Períodos/regiões de tempo ausentes
+4) Perguntas sem resposta
 Em seguida, proponha uma lista de verificação priorizada do que adicionar a seguir e porquê.
 ```
 
@@ -297,16 +255,13 @@ Em seguida, proponha uma lista de verificação priorizada do que adicionar a se
 
 ```markdown
 Extraia a metodologia das minhas fontes.
-
 Para cada estudo/relatório mencionado:
-- pergunta de pesquisa
-- método de coleta de dados
-- amostra/configuração
-- métricas
-- limitações
-
+1) Pergunta de pesquisa
+2) Método de coleta de dados
+3) Amostra/configuração
+4) Métricas
+5) Limitações
 Em seguida, resuma quais conclusões são de fato justificadas e quais são especulativas.
-
 Cite as fontes.
 ```
 
@@ -314,13 +269,12 @@ Cite as fontes.
 
 ```markdown
 Transformar as ideias principais das minhas fontes em um Procedimento Operacional Padrão (POP) passo a passo que eu possa seguir.
-
 Incluir:
-- pré-requisitos
-- etapas com pontos de decisão (se/então)
-- listas de verificação
-- Modos de falha + soluções
-- Estimativa de tempo/esforço por etapa
+1) Pré-requisitos
+2) Etapas com pontos de decisão (se/então)
+3) Listas de verificação
+4) Modos de falha + soluções
+5) Estimativa de tempo/esforço por etapa
 Cite a fonte para cada etapa.
 ```
 
@@ -345,7 +299,8 @@ Finalize com um slide: “Conceitos errôneos comuns” e “Teste rápido (5 pe
 ## O SINTETIZADOR ESPECIALISTA
 
 ```markdown
-Você é um especialista [na área] com 15 anos de experiência. Analise estas fontes e identifique as 3 principais ideias que os profissionais desta área reconheceriam imediatamente como inovadoras. Para cada ideia, explique por que ela é importante e qual o conhecimento convencional que ela desafia.
+Você é um especialista [na área] com 15 anos de experiência. Analise estas fontes e identifique as 3 principais ideias que os profissionais desta área reconheceriam imediatamente como inovadoras. 
+Para cada ideia, explique por que ela é importante e qual o conhecimento convencional que ela desafia.
 ```
 
 Isso prioriza a profundidade em detrimento da amplitude. O resultado é imediatamente utilizável.
@@ -353,7 +308,9 @@ Isso prioriza a profundidade em detrimento da amplitude. O resultado é imediata
 ## O CAÇADOR DE CONTRADIÇÕES
 
 ```markdown
-Compare essas fontes e identifique todos os pontos em que elas se contradizem. Para cada contradição, explique qual fonte apresenta evidências mais robustas e por quê. Se ambas forem consideradas confiáveis, explique quais fatores podem explicar a divergência.
+Compare essas fontes e identifique todos os pontos em que elas se contradizem. 
+Para cada contradição, explique qual fonte apresenta evidências mais robustas e por quê. 
+Se ambas forem consideradas confiáveis, explique quais fatores podem explicar a divergência.
 ```
 
 Ideal para revisões bibliográficas e due diligence. Economiza horas de verificação cruzada manual.
@@ -362,7 +319,8 @@ Ideal para revisões bibliográficas e due diligence. Economiza horas de verific
 ## O PLANO DE IMPLEMENTAÇÃO
 
 ```markdown
-Extraia todas as etapas práticas, ferramentas, estruturas e técnicas mencionadas em todas as fontes. Organize-as em um plano de implementação passo a passo com pré-requisitos, resultados esperados e possíveis dificuldades para cada etapa.
+Extraia todas as etapas práticas, ferramentas, estruturas e técnicas mencionadas em todas as fontes. 
+Organize-as em um plano de implementação passo a passo com pré-requisitos, resultados esperados e possíveis dificuldades para cada etapa.
 ```
 
 Isso transforma a teoria em prática. A maioria dos pesquisadores nunca realiza esse trabalho de tradução.
@@ -371,7 +329,8 @@ Isso transforma a teoria em prática. A maioria dos pesquisadores nunca realiza 
 ## O GERADOR DE PERGUNTAS
 
 ```markdown
-Com base nessas fontes, elabore 15 perguntas que um especialista faria, mas que essas fontes NÃO respondem. Priorize as perguntas que possam contribuir para o avanço da área ou revelar lacunas críticas no conhecimento atual.
+Com base nessas fontes, elabore 15 perguntas que um especialista faria, mas que essas fontes NÃO respondem. 
+Priorize as perguntas que possam contribuir para o avanço da área ou revelar lacunas críticas no conhecimento atual.
 ```
 
 É assim que você encontra espaço em branco para pesquisas originais ou oportunidades de produtos.
@@ -380,7 +339,9 @@ Com base nessas fontes, elabore 15 perguntas que um especialista faria, mas que 
 ## A ESCAVADEIRA DE SUPOSIÇÕES
 
 ```markdown
-Identifique todas as suposições implícitas nessas fontes. Para cada suposição, classifique sua criticidade (1-10) e a probabilidade de estar errada. Explique o que mudaria se essa suposição fosse falsa.
+Identifique todas as suposições implícitas nessas fontes. 
+Para cada suposição, classifique sua criticidade (1-10) e a probabilidade de estar errada. 
+Explique o que mudaria se essa suposição fosse falsa.
 ```
 
 A maioria das ideias inovadoras surge do questionamento de pressupostos que ninguém mais havia percebido.
@@ -389,7 +350,8 @@ A maioria das ideias inovadoras surge do questionamento de pressupostos que ning
 ## O CONSTRUTOR DE ESTRUTURAS
 
 ```markdown
-Crie uma estrutura abrangente que integre todos os conceitos dessas fontes. Inclua: componentes-chave, relações entre componentes, árvores de decisão para aplicação e casos extremos onde a estrutura falha down.
+Crie uma estrutura abrangente que integre todos os conceitos dessas fontes. 
+Inclua: componentes-chave, relações entre componentes, árvores de decisão para aplicação e casos extremos onde a estrutura falha down.
 ```
 
 Os frameworks são a forma de operacionalizar o conhecimento. Isso os constrói automaticamente.
@@ -398,7 +360,8 @@ Os frameworks são a forma de operacionalizar o conhecimento. Isso os constrói 
 ## O MAPEADOR DE EVIDÊNCIAS
 
 ```markdown
-Para cada afirmação principal nessas fontes, extraia as evidências que a sustentam e classifique sua força (anecdótica, correlacional, experimental, meta-análise). Sinalize quaisquer afirmações com evidências fracas que sejam feitas com alta confiança.
+Para cada afirmação principal nessas fontes, extraia as evidências que a sustentam e classifique sua força (anecdótica, correlacional, experimental, meta-análise). 
+Sinalize quaisquer afirmações com evidências fracas que sejam feitas com alta confiança.
 ```
 
 Isso é rigor de qualidade para publicação em segundos.
@@ -406,7 +369,8 @@ Isso é rigor de qualidade para publicação em segundos.
 ## O TRADUTOR DE PARTES INTERESSADAS
 
 ```markdown
-Traduza as informações dessas fontes para três públicos diferentes: [executivos, engenheiros, usuários finais]. Para cada público, concentre-se no que é especificamente importante para eles e use linguagem/exemplos que eles entendam imediatamente.
+Traduza as informações dessas fontes para três públicos diferentes: [executivos, engenheiros, usuários finais]. 
+Para cada público, concentre-se no que é especificamente importante para eles e use linguagem/exemplos que eles entendam imediatamente.
 ```
 
 Um único upload, três resultados utilizáveis ​​para diferentes contextos.
@@ -415,7 +379,9 @@ Um único upload, três resultados utilizáveis ​​para diferentes contextos.
 ## O CONSTRUTOR DE LINHA DO TEMPO
 
 ```markdown
-Extraia todas as datas, eventos, marcos e referências temporais dessas fontes. Construa uma linha do tempo abrangente mostrando como esse campo/tópico evoluiu. Identifique os pontos de aceleração onde o progresso aumentou drasticamente.
+Extraia todas as datas, eventos, marcos e referências temporais dessas fontes. 
+Construa uma linha do tempo abrangente mostrando como esse campo/tópico evoluiu. 
+Identifique os pontos de aceleração onde o progresso aumentou drasticamente.
 ```
 
 Ideal para entender o momento e prever o que vem a seguir.
@@ -424,7 +390,8 @@ Ideal para entender o momento e prever o que vem a seguir.
 ## O IDENTIFICADOR DE FRAQUEZAS
 
 ```markdown
-Aja como um rigoroso revisor por pares. Identifique todas as falhas metodológicas, lacunas lógicas, afirmações exageradas e saltos sem fundamento nessas fontes. Para cada fragilidade, sugira quais evidências adicionais seriam necessárias para fortalecer o argumento.
+Aja como um rigoroso revisor por pares. Identifique todas as falhas metodológicas, lacunas lógicas, afirmações exageradas e saltos sem fundamento nessas fontes. 
+Para cada fragilidade, sugira quais evidências adicionais seriam necessárias para fortalecer o argumento.
 ```
 
 É assim que você evita construir sobre alicerces instáveis.
@@ -465,7 +432,8 @@ O que antes levava 4 horas de análise → leva 12 minutos.
 ## A MÁQUINA DE REFERÊNCIA CRUZADA
 
 ```markdown
-Relacione os argumentos principais do Documento A com as evidências contraditórias do Documento B. Liste todas as tensões.
+Relacione os argumentos principais do Documento A com as evidências contraditórias do Documento B. 
+Liste todas as tensões.
 ```
 
 A maioria das pessoas lê jornais isoladamente.
@@ -480,9 +448,7 @@ Liste todas as suposições feitas neste documento que não são comprovadas pel
 ```
 
 Use isso antes de apresentar sua proposta a investidores.
-
 Use isso antes de implementar uma estratégia.
-
 Use isso antes de confiar em qualquer artigo de pesquisa.
 
 
@@ -504,9 +470,7 @@ Você é um crítico hostil. Quais são os 7 argumentos mais fortes contra a tes
 ```
 
 Os fundadores usam isso antes das reuniões do conselho.
-
 Advogados usam isso antes de depoimentos.
-
 É como um treino com o seu próprio material.
 
 
@@ -559,7 +523,6 @@ Resuma o argumento mais forte de cada lado e as evidências que eles utilizam."
 ```
 
 A maioria das pessoas nunca assiste aos debates.
-
 Essa pergunta revela as falhas intelectuais. 
 
 
@@ -570,7 +533,6 @@ Quais questões importantes nesta área ainda permanecem sem solução ou são p
 ```
 
 Agora você não está apenas aprendendo.
-
 Você está vendo onde fica a fronteira.
 
 
@@ -599,7 +561,6 @@ Ideal para aprendizado rápido.
 ```
 
 Isso revela informações não óbvias.
-
 Aquilo que a maioria dos resumos deixa de fora.
 
 
@@ -639,5 +600,4 @@ Combine as ideias mais importantes de todas as fontes em uma estrutura única e 
 ```
 
 É aqui que o Google Notebook se torna poderoso.
-
 Sintetiza o conhecimento, não apenas o resume. 
