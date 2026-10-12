@@ -58,6 +58,16 @@ Depois disso: `git push` sozinho **sempre funciona**.
 
 > **"Commit tudo e execute: git push origin HEAD"**
 
+### ✅ Prompt robusto
+
+> **"Commit todas as alterações locais (incluindo arquivos e pastas novas) e faça push para o branch padrão do remote (origin/HEAD). Se o branch local não estiver sincronizado com o remote, sincronize antes de enviar."**
+
+### ✅ Ou Prompt mais curto
+
+> **""Commit e push para o branch padrão do GitHub (origin/HEAD), criando/atualizando o tracking se necessário."**
+
+Isso força o uso de origin/HEAD (que aponta para main no GitHub) em vez de assumir o nome do branch local.
+
 ---
 
 ## Resumo para Leigos
