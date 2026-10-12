@@ -63,7 +63,8 @@ Commit tudo e execute: git push origin HEAD
 ### ✅ Prompt robusto
 
 ```bash
-Commit todas as alterações locais (incluindo arquivos e pastas novas) e faça push para o branch padrão do remote (origin/HEAD). Se o branch local não estiver sincronizado com o remote, sincronize antes de enviar.
+Commit todas as alterações locais (incluindo arquivos e pastas novas) e faça push para o branch padrão do remote (origin/HEAD). 
+Se o branch local não estiver sincronizado com o remote, sincronize antes de enviar.
 ```
 
 ### ✅ Ou Prompt mais curto
