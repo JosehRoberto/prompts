@@ -8,8 +8,9 @@ Este repositório contém prompts úteis para o dia-a-dia nos harnesses de traba
 - [Git para Leigos](./git-para-leigos/README.md)
 - [Forçar idioma - português do Brasil (sessão completa)](./pt-br-sessao/README.md)
 - [Meta-Instrução](./meta-instrucao/README.md)
-- [Reversa – Estado corrompido](./reversa/README.md)
+- [Reversa - Estado corrompido](./reversa/README.md)
 - [Análise de Repositórios com Perplexity](./analise-perplexity/README.md)
+- [OpenCode - Retomada segura após truncamento de resposta](./opencode-truncamento-resposta/README.md)
 
 
 ## Prompts para criar Exercícios
