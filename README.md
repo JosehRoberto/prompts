@@ -10,7 +10,7 @@ Este repositório contém prompts úteis para o dia-a-dia nos harnesses de traba
 - [Meta-Instrução](./meta-instrucao/README.md)
 - [Reversa - Estado corrompido](./reversa/README.md)
 - [Análise de Repositórios com Perplexity](./analise-perplexity/README.md)
-- [OpenCode - Retomada segura após truncamento de resposta](./opencode-truncamento-resposta/README.md)
+- [Retomada segura após truncamento de resposta](./retomada-segura-apos-truncamento/README.md)
 - [Git Push Seguro: Evitando o Problema do Branch Errado](./git-push-seguro/README.md)
 
 

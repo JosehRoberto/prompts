@@ -27,6 +27,10 @@ git commit -m "Descreva o que você fez"
 ```text
 “Salve o documento localmente, adicione as alterações ao staging, faça um commit e envie para o repositório remoto.”
 ```
+ou
+```text
+Documentos foram alterados localmente, adicione as alterações ao staging, faça um commit e envie para o repositório remoto.
+```
 
 Comando correspondente: 
 ```
