@@ -28,9 +28,8 @@ Esta é a **timeline canônica** da oficina. Ela é a referência única para os
 | Abertura | Acolhimento + Bloco 1 (Contextualização) | 08h30–08h45 | nenhum | `fase-01` | 1–8 |
 | Configuração | Suporte aos notebooks | 08h45–09h20 | nenhum | guia já liberado | apoio (à parte) |
 | Bloco 2 | Preparação do projeto | 09h20–09h35 | nenhum | `fase-02` | 9–12 |
-| Bloco 3 | Construção guiada | 09h35–10h35 (com pausa) | Prompts 1, 2, 3, 5, 6 | `fase-02` | 13–18 |
-| Bloco 4 | Refinamento | 09h55–10h55 (encadeado) | Prompt 4 | `fase-02` | 19–22 |
-| Bloco 5 | Recursos interativos simples | 10h35–10h55 | Prompts 7, 8 | `fase-02` | 23–26 |
+| Bloco 3 | Construção guiada | 09h35–10h05 e 10h15–10h35 (pausa às 10h05) | Prompts 1, 2, 3, 5, 6 | `fase-02` | 13–18 |
+| Blocos 4 e 5 | Refinamento e recursos interativos | 10h35–10h55 | Prompts 4, 7, 8 | `fase-02` | 19–26 |
 | Bloco 6 | Personalização | 10h55–11h15 | Prompts 9, 10 | `fase-02` | 27–30 |
 | Bloco 7 | Publicação | 11h15–11h55 | — | `fase-03` | 31–36 |
 | Encerramento | Revisão e próximos passos | 11h55–12h00 | nenhum | `pos-oficina` | 37–39 |
@@ -44,10 +43,12 @@ As divergências entre os documentos de origem foram resolvidas e alinhadas em t
 1. **Prompt 5 x pausa:** o Prompt 5 passa de 10h05 para **10h15** (retorno da pausa). Atualizado no `roteiro-liberacao-conteudos.md`.
 2. **Prompt 1 x janela do cronograma:** o Prompt 1 passa de 09h30 para **09h35**, dentro da janela "OpenCode: primeiros prompts". O arquivo do roteiro continua sendo liberado às 09h30.
 3. **Bloco 5 sem janela:** o Bloco 5 ganhou a janela **10h35–10h55**, criada ao fundir "Ajustes visuais e responsividade" com os recursos interativos no `cronograma-oficina.md`.
-4. **Blocos 4 e 5 sobrepostos:** encadeados na mesma janela (10h35–10h55), sem separação rígida.
+4. **Blocos 4 e 5 compartilhados:** ocupam a mesma janela (10h35–10h55), encadeados, sem separação rígida e sem sobreposição de horários.
 5. **Prompt 8:** passa de 10h55 para **10h50**, para caber na janela 10h35–10h55.
 
 Horários finais dos prompts: 1 (09h35), 2 (09h40), 3 (09h45), 4 (09h55), 5 (10h15), 6 (10h25), 7 (10h40), 8 (10h50), 9 (11h05), 10 (11h10).
+
+As janelas da amarração são contíguas e **sem sobreposição**, iguais às do `01-planejamento/cronograma-oficina.md`. O Bloco 3 é interrompido pela pausa (10h05–10h15), e o Bloco 7 cobre 11h15–11h55 (GitHub e GitHub Pages).
 
 ---
 
@@ -198,7 +199,7 @@ portal-trilhas/
 
 ---
 
-## Bloco 3: Construção guiada (09h35–10h35, com pausa às 10h05)
+## Bloco 3: Construção guiada (09h35–10h05 e 10h15–10h35, pausa às 10h05)
 
 **Objetivo:** construir a estrutura inicial do site com prompts, criar seções e menu, inserir trilhas, recursos, portfólio, contato e rodapé.
 
@@ -251,7 +252,7 @@ Prompts 2, 3, 5 e 6 constroem, na ordem: estrutura inicial, página inicial, car
 
 ---
 
-## Bloco 4: Refinamento (10h35–10h55, encadeado com o Bloco 5)
+## Bloco 4: Refinamento (10h35–10h55, compartilhada com o Bloco 5)
 
 **Objetivo:** ajustar layout, cores, tipografia, responsividade e revisar o texto.
 
@@ -301,7 +302,7 @@ Prompt 4 pede layout para notebook e celular, com boa legibilidade e navegação
 
 ---
 
-## Bloco 5: Recursos interativos simples (10h35–10h55)
+## Bloco 5: Recursos interativos simples (10h35–10h55, compartilhada com o Bloco 4)
 
 **Objetivo:** criar indicador de progresso e área de anotações salvos localmente, sem back-end.
 

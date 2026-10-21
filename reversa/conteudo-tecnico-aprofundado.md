@@ -11,17 +11,21 @@ Este documento é o material de estudo profundo da oficina. Ele existe para que,
 
 ## Ordem da sessão (timeline canônica)
 
-| Janela | Bloco | Prompt |
+| Janela | Bloco | Prompts liberados na janela |
 |---|---|---|
 | 08h30–08h45 | Abertura + Bloco 1: Contextualização | — |
-| 08h45–09h20 | Configuração | — |
+| 08h45–09h20 | Configuração (suporte técnico) | — |
 | 09h20–09h35 | Bloco 2: Preparação do projeto | — |
-| 09h35–10h35 (com pausa) | Bloco 3: Construção guiada | 1, 2, 3, 5, 6 |
-| 09h55–10h55 (encadeado) | Bloco 4: Refinamento | 4 |
-| 10h35–10h55 | Bloco 5: Recursos interativos | 7, 8 |
-| 10h55–11h15 | Bloco 6: Personalização | 9, 10 |
-| 11h15–11h55 | Bloco 7: Publicação | — |
+| 09h35–10h05 | Bloco 3: Construção guiada (abertura) | 1 (09h35), 2 (09h40), 3 (09h45), 4 (09h55) |
+| 10h05–10h15 | Pausa | — |
+| 10h15–10h35 | Bloco 3: Construção guiada (continuação) | 5 (10h15), 6 (10h25) |
+| 10h35–10h55 | Blocos 4 e 5: Refinamento e recursos interativos | 7 (10h40), 8 (10h50) |
+| 10h55–11h15 | Bloco 6: Personalização | 9 (11h05), 10 (11h10) |
+| 11h15–11h40 | Bloco 7: Publicação (GitHub) | — |
+| 11h40–11h55 | Bloco 7: Publicação (GitHub Pages) | — |
 | 11h55–12h00 | Encerramento | — |
+
+As janelas são contíguas e **sem sobreposição**, iguais às do `01-planejamento/cronograma-oficina.md`. Os **Blocos 4 e 5 compartilham a mesma janela** (10h35–10h55), encadeados, como no cronograma. O Bloco 3 é interrompido pela pausa (10h05–10h15).
 
 ---
 
@@ -267,7 +271,7 @@ portal-trilhas/
 
 ---
 
-## Bloco 3: Construção guiada (09h35–10h35, com pausa)
+## Bloco 3: Construção guiada (09h35–10h05 e 10h15–10h35, pausa às 10h05)
 
 ### 3.1 HTML
 
@@ -376,7 +380,7 @@ portal-trilhas/
 
 ---
 
-## Bloco 4: Refinamento (09h55–10h55, encadeado)
+## Bloco 4: Refinamento (10h35–10h55, compartilhada com o Bloco 5)
 
 ### 4.1 Layout e box model
 
@@ -479,7 +483,7 @@ Pede layout para notebook e celular, com boa legibilidade, espaçamento consiste
 
 ---
 
-## Bloco 5: Recursos interativos simples (10h35–10h55)
+## Bloco 5: Recursos interativos simples (10h35–10h55, compartilhada com o Bloco 4)
 
 ### 5.1 JavaScript no navegador (DOM e eventos)
 
